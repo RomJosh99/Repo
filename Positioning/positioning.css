@@ -1,0 +1,40 @@
+<style>
+
+    #relative {
+    background-color: lightgray;
+    height: 250px;
+    width: 500px;
+    top: 10px;
+    left: 10px;
+    }
+    
+    #fixed {
+    background-color: lightgray;
+    height: 100px;
+    width: 150px;
+    top: 10px;
+    left: 10px;
+    }
+
+    #absolute {
+    background-color: lightslategray;
+    height: 100px;
+    width: 160px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</style>
